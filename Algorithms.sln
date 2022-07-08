@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{CC431EDF-FFA4-48C6-BCC4-3673AF4708C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryAndLinearSearch", "BinaryAndLinearSearch\BinaryAndLinearSearch.csproj", "{43D2F46E-78F9-41DB-968A-150E76B8E5C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{35DB2A20-594D-4452-8002-CF987E9D4238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{006B0CD5-F026-4320-A033-194D5381F45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC431EDF-FFA4-48C6-BCC4-3673AF4708C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC431EDF-FFA4-48C6-BCC4-3673AF4708C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC431EDF-FFA4-48C6-BCC4-3673AF4708C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC431EDF-FFA4-48C6-BCC4-3673AF4708C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D2F46E-78F9-41DB-968A-150E76B8E5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D2F46E-78F9-41DB-968A-150E76B8E5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D2F46E-78F9-41DB-968A-150E76B8E5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D2F46E-78F9-41DB-968A-150E76B8E5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DB2A20-594D-4452-8002-CF987E9D4238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DB2A20-594D-4452-8002-CF987E9D4238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DB2A20-594D-4452-8002-CF987E9D4238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DB2A20-594D-4452-8002-CF987E9D4238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006B0CD5-F026-4320-A033-194D5381F45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006B0CD5-F026-4320-A033-194D5381F45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006B0CD5-F026-4320-A033-194D5381F45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006B0CD5-F026-4320-A033-194D5381F45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
